@@ -1,5 +1,5 @@
 <?php
 
-print "Welcome to OKD";
+print "Welcome to OKD UPDATE";
 
 ?>
